@@ -1,4 +1,4 @@
-# COS102 - Introduction to Computing
+# COS102 - Introduction to Problem Solving
 
 This repository contains my coursework and projects for the **COS102** course. This is an ongoing course, and I'll be updating this repo regularly with new assignments and projects as the semester progresses.
 
@@ -42,5 +42,5 @@ COS102 covers essential programming concepts, data analysis, and visualization u
 
 ---
 
-**Course:** COS102 - Introduction to Computing  
+**Course:** COS102 - Introduction to Problem Solving  
 **Student:** c.chukwurah
