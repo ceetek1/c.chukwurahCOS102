@@ -28,6 +28,11 @@ COS102 covers essential programming concepts, data analysis, and visualization u
 - Data visualization and statistical analysis
 - Working with real-world datasets
 
+### Week 5 - Object-Oriented Programming (OOP)
+- Introduction to Classes and Objects
+- Enhancing GUI applications using OOP principles
+- Projects: Employee management system and Delivery fee calculator
+
 ## 🛠️ Technologies Used
 
 - Python 3.13+
